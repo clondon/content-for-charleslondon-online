@@ -1,0 +1,16 @@
+imports: 
+# - path: /Users/charles/Projects/Projects/websites/hugo/content-for-clondon-online
+  path: github.com/clondon/content-for-charleslondon-online
+
+mounts:
+  - source: assets
+    target: assets
+  - source: content
+    target: content  
+  - source: layouts
+    target: layouts 
+
+
+    
+    
+    
