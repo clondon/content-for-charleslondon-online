@@ -9,8 +9,9 @@ menu: main
 ---
 
 
-The text on the about page should be left justified.
-Left page
+## About Us  
 
+We are challenging the traditional way that you buy a web site for your business.
 
-
+Our use of advanced technology allows us to lower cost to you using PaaS system for servers and custom static site templates for the website.
+  
