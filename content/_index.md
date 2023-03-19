@@ -21,7 +21,7 @@ Contact us to learn how we can make the Internet work for your business.
 
 We can help you to setup your online services so that your customers can access you services 24hours a day.  
 
-![Skyscrapper]("London-skyscraper.jpg")   
+![Skyscrapper]("./London-skyscraper.jpg")   
 
 [C London online](London-skyscraper.jpg "My Website link")  
      
