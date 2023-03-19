@@ -24,7 +24,7 @@ We can help you to setup your online services so that your customers can access 
 
 
 
-{{< gallery dir="frontpageimages/" />}}
+{{< gallery dir="./frontpageimages/" />}}
 
 
 [Home](/)
