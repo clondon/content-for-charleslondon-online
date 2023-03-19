@@ -23,7 +23,7 @@ We can help you to setup your online services so that your customers can access 
 
 ![Skyscrapper]("./London-skyscraper.jpg")   
 
-[C London online](London-skyscraper.jpg "My Website link")  
+[C London online](./London-skyscraper.jpg "My Website link")  
      
 
 
