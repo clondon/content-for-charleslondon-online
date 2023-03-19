@@ -22,9 +22,9 @@ Contact us to learn how we can make the Internet work for your business.
 We can help you to setup your online services so that your customers can access you services 24hours a day.  
 
 
-{{< gallery >}}
-  {{< figure src="./London-skyscraper.jpg" caption="This is a caption" size="200px">}}
-{{< /gallery >}}
+
+
+{{< gallery dir="/frontpageimages/" />}}
 
 
 [Home](/)
