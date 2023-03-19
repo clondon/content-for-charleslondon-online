@@ -27,7 +27,7 @@ We can help you to setup your online services so that your customers can access 
 
 
 {{< gallery >}}
-  {{< figure src="./London-skyscraper.jpg" >}}
+  {{< figure src="./London-skyscraper.jpg" caption="This is a caption" >}}
 {{< /gallery >}}
 
 
