@@ -1,32 +1,17 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".."
 		},
 		{
-			"path": "/Users/charleslondon/Projects/websites/hugo/2023-03/charleslondononline/themes/AcmeTheme",
-			"name": "Theme files",
-			"index": 2,
-			"settings": {
-				"files.exclude": {
-					"**/.*": false
-				}
-			}
+			"path": "../../../hugo/2023-03/charleslondononline/themes/AcmeTheme"
 		},
 		{
-			"path": "/Users/charleslondon/Projects/websites/hugo/2023-03/charleslondononline",
-			"name": "Site files",
-			"index": 0
+			"path": "../../../hugo/2023-03/charleslondononline/content"
 		},
 		{
-			"path": "/Users/charleslondon/Projects/websites/_content",
-			"name": "Content Files",
-			"index": 1
+			"path": "../../../hugo/2023-03/charleslondononline/static"
 		}
 	],
-	"settings": {
-		"terminal.integrated.cwd": "",
-		"editor.tabCompletion": "on",
-		"diffEditor.codeLens": true
-	}
+	"settings": {}
 }
