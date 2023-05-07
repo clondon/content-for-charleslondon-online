@@ -19,7 +19,7 @@ Your CV should reflect the many changes that has shaped our modern work style an
 
 ___
 
-
+    
 
 
 ### Business Sentiments reports.   
@@ -32,12 +32,6 @@ Your report will allow you to deal with negative or positive sentiments and help
 Our sentiments can help you identify problem areas and fix these quickly.
 
 |Platform &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;   |    Ratings  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  |  Sentiments  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  |
-|:----------   |:-----------|:------|
-| Google Business | {{< stars rating=5 >}}|👎
-| Yell| {{< stars rating=3 >}}  |✔️ |
-| Facebook| {{< stars rating=1 >}}|✔️ |
-| TrustPilot| {{< stars rating=1 >}}|✔️ |
-|---  |---  |---|
 
 
 
