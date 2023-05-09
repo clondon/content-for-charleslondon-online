@@ -1,4 +1,6 @@
-# Welcome to Charles Online
+---
+title: Welcome to Charles Online
+---
 
 ## Websites  for small businesses
 

@@ -1,3 +1,3 @@
-module github.com/clondon/content-for-charleslondon-online
+module content-for-charles-online
 
 go 1.19
