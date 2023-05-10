@@ -4,8 +4,13 @@ featured_image: ''
 omit_header_text: true
 description: Our Services
 type: page
-menu: main
+menu: 
+ - main
+
 ---
+
+# The projects we are working on
+
 ### Resumé Creator.  
 Create your resumé with our ML based CV creator.  
 We can help you produce a fresh and modern looking CV using update terms and  methods to reflect your modern outlook.
